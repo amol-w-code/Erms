@@ -1,5 +1,5 @@
-Employee id:
-Employee name:
-department:
-Designation:
-salary:
+Employee id:1
+Employee name:john
+department:CSE
+Designation:SDE
+salary:10000
