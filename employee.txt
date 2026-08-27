@@ -3,3 +3,15 @@ Employee name:john
 department:CSE
 Designation:SDE
 salary:10000
+
+employee id: 2
+employee name: doe
+department: CSE
+designation: SDE2
+salary: 210000
+
+employee id: 3
+employee name: daisy
+department: Management
+designation: AM
+salary: 50000
