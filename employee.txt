@@ -15,3 +15,16 @@ employee name: daisy
 department: Management
 designation: AM
 salary: 50000
+
+employee id: 4
+employee name: yalena
+department: Management
+designation: AM
+salary: 45000
+
+employee id: 5
+employee name: BOB
+department: Management
+designation: manager
+salary: 100000
+
